@@ -4,5 +4,5 @@ Application Demonstration (https://drive.google.com/file/d/1ih7_nqez0dafI7WTCmmv
 
 App Started with Inventory List
 
-![Alt text](/relative/path/to/mysql.png?raw=true "mysql")
+Format: ![Alt Text](https://raw.github.com/Sunny-Liao/bamazon/master/mysql.png)
 
